@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica Parcial</string>
+    <string name="apellido">Ingresar Apellido</string>
+    <string name="ingresarnombre">Ingresar Nombre</string>
+    <string name="telefono">Telefono</string>
+    <string name="imagen">Ingrese ruta imagen</string>
+</resources>
